@@ -7,7 +7,7 @@ A modular Python framework demonstrating core mathematical foundations—**Linea
 
 This repository serves as the final capstone project for the **Mathematics for Machine Learning and Data Science Specialization**.
 
-* **Official Certificate:** [View Coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/M3RLK0DMV6DM)
+* **Official Certificate:** [View Coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/M3RLK0DMV6DM)
 
 ---
 
@@ -28,6 +28,7 @@ Math-ML-Statistical-inference-engine/
 │
 ├── requirements.txt
 └── README.md
+
 
 ```
 
@@ -52,7 +53,6 @@ Math-ML-Statistical-inference-engine/
 
 $$d = \frac{\left( \frac{s_c^2}{n_c} + \frac{s_v^2}{n_v} \right)^2}{\frac{(s_c^2 / n_c)^2}{n_c - 1} + \frac{(s_v^2 / n_v)^2}{n_v - 1}$$
 
-
 * **Hypothesis Testing Engine:** Automates decision-making (`Reject H_0` vs `Do not reject H_0`) using $t$-values and $p$-values derived from Student's t-distribution.
 
 ---
@@ -66,6 +66,7 @@ Ensure you have Python 3.8+ installed along with the required libraries:
 ```bash
 pip install numpy scipy pandas matplotlib
 
+
 ```
 
 ### Running the Tests
@@ -75,6 +76,7 @@ To verify the statistical and optimization modules:
 ```bash
 python -m unittest discover
 
+
 ```
 
 ---
@@ -83,5 +85,8 @@ python -m unittest discover
 
 Developed as a portfolio project showcasing the rigorous mathematical principles underlying Artificial Intelligence and Data Science.
 
+```
+
+Bunu yapışdırıb **Commit changes** etdikdən sonra sertifikat linkin də tam işlək vəziyyətə gələcək!
 
 ```
