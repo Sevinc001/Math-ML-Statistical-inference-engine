@@ -86,7 +86,3 @@ python -m unittest discover
 Developed as a portfolio project showcasing the rigorous mathematical principles underlying Artificial Intelligence and Data Science.
 
 ```
-
-Bunu yapışdırıb **Commit changes** etdikdən sonra sertifikat linkin də tam işlək vəziyyətə gələcək!
-
-```
