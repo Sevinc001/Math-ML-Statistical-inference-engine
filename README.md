@@ -1,4 +1,3 @@
-```markdown
 # Mathematics for Machine Learning & Data Science: Capstone Engine
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sevinc001/Math-ML-Statistical-inference-engine/blob/main/notebooks/exploratory_analysis.ipynb)
@@ -83,6 +82,6 @@ python -m unittest discover
 
 Developed as a portfolio project showcasing the rigorous mathematical principles underlying Artificial Intelligence and Data Science.
 
-```
+
 
 ```
