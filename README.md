@@ -29,7 +29,6 @@ Math-ML-Statistical-inference-engine/
 ├── requirements.txt
 └── README.md
 
-
 ```
 
 ---
@@ -53,6 +52,7 @@ Math-ML-Statistical-inference-engine/
 
 $$d = \frac{\left( \frac{s_c^2}{n_c} + \frac{s_v^2}{n_v} \right)^2}{\frac{(s_c^2 / n_c)^2}{n_c - 1} + \frac{(s_v^2 / n_v)^2}{n_v - 1}$$
 
+
 * **Hypothesis Testing Engine:** Automates decision-making (`Reject H_0` vs `Do not reject H_0`) using $t$-values and $p$-values derived from Student's t-distribution.
 
 ---
@@ -66,7 +66,6 @@ Ensure you have Python 3.8+ installed along with the required libraries:
 ```bash
 pip install numpy scipy pandas matplotlib
 
-
 ```
 
 ### Running the Tests
@@ -76,7 +75,6 @@ To verify the statistical and optimization modules:
 ```bash
 python -m unittest discover
 
-
 ```
 
 ---
@@ -84,5 +82,9 @@ python -m unittest discover
 ## 👤 Author
 
 Developed as a portfolio project showcasing the rigorous mathematical principles underlying Artificial Intelligence and Data Science.
+
+```
+
+İndi bax, Colab düyməsi də, sertifikat linki də, hər şey saat kimi işləyəcək!
 
 ```
