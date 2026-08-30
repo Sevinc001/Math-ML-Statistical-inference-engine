@@ -85,6 +85,4 @@ Developed as a portfolio project showcasing the rigorous mathematical principles
 
 ```
 
-İndi bax, Colab düyməsi də, sertifikat linki də, hər şey saat kimi işləyəcək!
-
 ```
